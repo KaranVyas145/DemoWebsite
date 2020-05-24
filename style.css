@@ -1,0 +1,89 @@
+body{
+	font-family: sans-serif;
+	margin: 0%;
+	background-color: 
+}
+#main-footer{
+	background-color: #333;
+	color: #fff;
+	text-align: center;
+	padding: 5px;
+	font-size: 150%;
+}
+
+
+.HBT{
+	background-color: black;
+	color: white;
+	overflow: hidden;
+}
+.HBT h1{
+	padding: 10px;
+	background: black;
+	position: fixed;
+	left: 0;
+	margin: 0;
+}
+
+a{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 20px;
+	}
+a:hover{
+	background-color: grey;
+	color: #ffa07a;
+	padding: 20px;
+
+}
+
+.button {
+	position: absolute;
+	top:30px;
+	right: 10px;
+
+}
+.button a:hover{
+	padding: 30px;
+
+}
+
+.Enjoy{
+	background-image: url('img/showcase1.jpg');
+	height: 907px;
+	width: 1349px;
+	text-align: center;
+	
+}
+.Enjoyy{
+	position: absolute;
+	vertical-align: middle;
+	font-size: 200%;
+	top: 50%;
+	color: #fff;
+}
+
+.blocki{
+	float: left;
+	width: 50%;
+	font-size: 150%;
+	text-align: center;
+	background-color: coral;
+	margin: 0;
+	
+	border:1px solid white;
+	
+	box-sizing: border-box;
+}
+
+.blockii{
+	float: left;
+	width: 33.33%;
+	text-align: center;
+	border:1px solid white;
+	padding: 10px;
+	box-sizing: border-box;
+	font-size: 200%;
+	background-color: #008b8b;
+}
