@@ -53,7 +53,8 @@ a:hover{
 	background-image: url('img/showcase.jpg');
 	height: 1280px;
 	width: auto;
-	text-align: center;
+	position: inherit;
+	float: inherit;
 	
 }
 .Enjoyy{
